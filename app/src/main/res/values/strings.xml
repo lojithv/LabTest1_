@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabTest1</string>
+    <string name="colors">Colors</string>
+    <string name="sid">Student ID</string>
+    <string name="sid_value">101241827</string>
+    <string name="sname">Name</string>
+    <string name="sname_value">Mohsen Yahya</string>
+</resources>
